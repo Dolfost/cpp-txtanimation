@@ -1,2 +1,6 @@
 a.out
-tags
+/tags
+readme/run/run_animation_parser_pc
+readme/run/run_animation_pc
+readme/run/run_animation_termux
+readme/run/run_animation_parser_termux
