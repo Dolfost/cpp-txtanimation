@@ -1,0 +1,12 @@
+[submodule "include/clrscr"]
+	path = include/clrscr
+	url = https://github.com/Dolfost/clrscr-cpp
+[submodule "include/colorit"]
+	path = include/colorit
+	url = https://github.com/Dolfost/colorit-cpp
+[submodule "include/fcheck"]
+	path = include/fcheck
+	url = https://github.com/Dolfost/fcheck-cpp
+[submodule "include/sleep"]
+	path = include/sleep
+	url = https://github.com/Dolfost/sleep-cpp
